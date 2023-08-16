@@ -1,0 +1,81 @@
+﻿individu;campagne;comp_site;site;saison;longeur [cm];largeur [cm];epaisseur [cm];poid totale [mg];poids total sans eaux [mg];poids tissus [mg];poids coquille [mg];MTs [ug/g];commentaire
+VD_A_MTs_1;1;VD_A;VD;Automne;2.3;1.3;1.08;1197;890.8;449.6;441.2;3.145;OK
+VD_A_MTs_2;1;VD_A;VD;Automne;1.57;1.07;0.66;647.2;309.6;154;155.6;8.362;OK
+VD_A_MTs_3;1;VD_A;VD;Automne;2.05;1.22;0.88;939;619.8;272.9;346.9;5.838;OK
+VD_A_MTs_4;1;VD_A;VD;Automne;2.31;1.58;1.07;1668;875.9;408.7;467.2;2.84;OK
+VD_A_MTs_5;1;VD_A;VD;Automne;2.28;1.3;0.86;1149.8;723.8;301.4;422.4;4.007;OK
+VD_A_MTs_6;1;VD_A;VD;Automne;2.3;1.32;0.99;1368.7;821.9;317.4;504.5;4.785;OK
+VD_A_MTs_7;1;VD_A;VD;Automne;2.37;1.38;0.97;1377.4;789.4;357.3;432.1;3.513;OK
+VD_A_MTs_8;1;VD_A;VD;Automne;2.5;1.45;0.89;1253.5;832.6;390.6;442;3.798;OK
+VD_A_MTs_9;1;VD_A;VD;Automne;2.24;1.31;0.81;953.2;647.9;301.6;346.3;4.569;OK
+VD_A_MTs_10;1;VD_A;VD;Automne;1.79;1.17;0.8;699.5;468.1;232.9;235.2;6.6;OK
+VD_A_MTs_11;1;VD_A;VD;Automne;1.81;1.16;0.7;677.1;459.4;228.2;231.2;4.313;OK
+VD_A_MTs_12;1;VD_A;VD;Automne;2.09;1.36;0.8;956.5;643.9;308.2;335.7;2.76;OK
+VD_A_MTs_13;1;VD_A;VD;Automne;2.06;1.27;0.7;792.7;516.4;251.3;265.1;4.592;OK
+VD_A_MTs_14;1;VD_A;VD;Automne;1.8;1.18;0.76;762.3;488.1;197.1;291;5.786;OK
+VD_A_MTs_15;1;VD_A;VD;Automne;2.1;1.23;0.84;954.3;621.8;282.3;339.5;3.291;OK
+VD_A_MTs_16;1;VD_A;VD;Automne;1.76;0.85;0.97;847.1;554.3;149.7;404.6;;OK
+VD_A_MTs_17;1;VD_A;VD;Automne;1.85;1.18;0.81;761.5;507.3;205.6;301.7;4.147;OK
+VD_A_MTs_18;1;VD_A;VD;Automne;2.08;1.21;0.75;857.5;610.5;266.5;344;4.077;OK
+VD_A_MTs_19;1;VD_A;VD;Automne;2.08;1.11;0.72;765;498.5;239;259.5;4.857;OK
+VD_A_MTs_20;1;VD_A;VD;Automne;1.94;1.09;0.72;710.7;420.2;196.5;223.7;4.725;OK
+SP_A_MTs_1;2;SP_A;SP;Automne;2.6;1.34;0.97;1588.5;806.1;341.3;464.8;2.058;OK
+SP_A_MTs_2;2;SP_A;SP;Automne;2.8;1.5;0.91;1682;892.4;408.4;484;;Erreur de manipulation
+SP_A_MTs_3;2;SP_A;SP;Automne;2.5;1.4;0.85;1310.1;704.3;296;408.3;1.694;OK
+SP_A_MTs_4;2;SP_A;SP;Automne;2.81;1.62;1.02;2153.1;1257.1;425.1;832;1.308;OK
+SP_A_MTs_5;2;SP_A;SP;Automne;2.55;1.3;0.97;1585;969.2;375.9;593.3;1.521;OK
+SP_A_MTs_6;2;SP_A;SP;Automne;2.73;1.4;0.9;1622.2;907.6;374.5;533.1;1.513;OK
+SP_A_MTs_7;2;SP_A;SP;Automne;2.7;1.42;0.93;1624.8;908.2;441.3;466.9;1.437;OK
+SP_A_MTs_8;2;SP_A;SP;Automne;2.8;1.55;0.95;1654.2;917.8;345.8;572;1.294;OK
+SP_A_MTs_9;2;SP_A;SP;Automne;2.69;1.51;1.06;1964.4;1029.8;404.7;625.1;1.193;OK
+SP_A_MTs_10;2;SP_A;SP;Automne;2.87;1.47;1;1926.3;1040.9;442.6;598.3;1.259;OK
+SP_A_MTs_11;2;SP_A;SP;Automne;2.65;1.5;1.1;2015.5;1048.8;394.6;654.2;2.579;OK
+SP_A_MTs_12;2;SP_A;SP;Automne;2.58;1.4;1.03;1813.3;980.3;372.8;607.5;2.536;OK
+SP_A_MTs_13;2;SP_A;SP;Automne;2.72;1;0.88;1664.2;858.4;370.4;488;2.124;OK
+SP_A_MTs_14;2;SP_A;SP;Automne;2.66;1.53;1;1728;936.5;358.7;577.8;2.053;OK
+SP_A_MTs_15;2;SP_A;SP;Automne;2.63;1.34;1.04;1558;769.3;315.8;453.5;3.079;OK
+SP_A_MTs_16;2;SP_A;SP;Automne;2.7;1.52;1.04;1960.1;1019.2;445.8;573.4;2.398;OK
+SP_A_MTs_17;2;SP_A;SP;Automne;2.61;1.4;0.94;1563.5;860.8;336.5;524.3;2.984;OK
+SP_A_MTs_18;2;SP_A;SP;Automne;2.71;1.53;1.05;1934.6;1130.6;555.1;575.5;;pas assez de plac epour la tampon de broyage
+SP_A_MTs_19;2;SP_A;SP;Automne;2.77;1.52;0.96;1906;969;364.4;604.6;;pas assez de plac epour la tampon de broyage
+SP_A_MTs_20;2;SP_A;SP;Automne;2.6;1.42;0.93;1540;810;364.1;445.9;2.263;OK
+VD_H_MTs_1;3;VD_H;VD;Hiver;2.59;1.63;1.03;1887.5;994.4;417.8;576.6;3.372;OK
+VD_H_MTs_2;3;VD_H;VD;Hiver;2.5;1.5;0.89;1540;794.1;352.8;441.3;4.306;OK
+VD_H_MTs_3;3;VD_H;VD;Hiver;2.69;1.45;0.9;1339.5;921.2;436.7;484.5;3.339;OK
+VD_H_MTs_4;3;VD_H;VD;Hiver;2.32;1.27;0.87;1209.4;669;330.6;338.4;3.455;OK
+VD_H_MTs_5;3;VD_H;VD;Hiver;2.21;1.38;0.91;1283.6;702.3;350.9;351.4;2.016;OK
+VD_H_MTs_6;3;VD_H;VD;Hiver;2.67;1.39;0.8;1444.4;733.5;309;424.5;4.988;OK
+VD_H_MTs_7;3;VD_H;VD;Hiver;2.23;1.24;0.81;937.4;542.5;265.2;277.3;5.705;OK
+VD_H_MTs_8;3;VD_H;VD;Hiver;2.63;1.45;1.88;1533.5;824.6;365.7;458.9;4.475;OK
+VD_H_MTs_9;3;VD_H;VD;Hiver;2.48;1.33;1.02;1622.9;893;370.4;522.6;3.356;OK
+VD_H_MTs_10;3;VD_H;VD;Hiver;2.67;1.43;1;1715.5;942.6;465.6;477;2.53;OK
+VD_H_MTs_11;3;VD_H;VD;Hiver;2.62;1.59;1.03;1819.1;977.2;474;503.2;3.687;OK
+VD_H_MTs_12;3;VD_H;VD;Hiver;2.42;1.31;0.85;1378.2;776.1;338.7;437.4;4.43;OK
+VD_H_MTs_13;3;VD_H;VD;Hiver;2.6;1.61;1.15;1693.3;1112.7;454;658.7;3.678;OK
+VD_H_MTs_14;3;VD_H;VD;Hiver;2.54;1.47;1.03;1385.5;947.1;497.4;449.7;2.687;OK
+VD_H_MTs_15;3;VD_H;VD;Hiver;2.08;1.33;0.7;926.6;480;243.5;236.5;6.988;OK
+VD_H_MTs_16;3;VD_H;VD;Hiver;2.19;1.33;0.88;1293.1;716.2;281;435.2;6.055;OK
+VD_H_MTs_17;3;VD_H;VD;Hiver;2.26;1.28;0.88;1094.5;572.6;265.4;307.2;4.826;OK
+VD_H_MTs_18;3;VD_H;VD;Hiver;2.22;1.28;0.84;1084.5;634;296.5;337.5;5.299;OK
+VD_H_MTs_19;3;VD_H;VD;Hiver;2.2;1.29;1;1219.2;615.5;301.7;313.8;4.534;OK
+VD_H_MTs_20;3;VD_H;VD;Hiver;2.27;1.34;0.88;1195.2;700.4;333.3;367.1;4.297;OK
+SP_H_MTs_1;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_2;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_3;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_4;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_5;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_6;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_7;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_8;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_9;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_10;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_11;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_12;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_13;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_14;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_15;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_16;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_17;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_18;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_19;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
+SP_H_MTs_20;4;SP_H;SP;Hiver;;;;;;;;;Pas de prélèvement
